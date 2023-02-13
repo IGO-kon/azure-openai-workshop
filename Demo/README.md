@@ -1,11 +1,11 @@
-# Running Demos
+# デモの実行
 
-## Prepare Conda Environment
-Use requirements.txt to install necessary packages
+## Conda環境を準備する
+requirements.txt を使用して、必要なパッケージをインストールします。
 
-## Setup Environmental Variable
-After creating Azure OPENAI service, setup 2 environmental variables for 
+## 環境変数をセットアップする。
+Azure OPENAI serviceをセットアップし、２つの環境変数を定義します。
 - OPENAI_API_ENDPOINT
 - OPENAI_API_KEY
 
-## Run Demo Code
+## デモコードを実行してください。
